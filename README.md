@@ -1,0 +1,1 @@
+## Kısa howto belgeleri
